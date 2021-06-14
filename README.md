@@ -31,28 +31,27 @@ Jarvis is a personal assistant which can perform cool and unique tasks.
 
 
 ## Modules Used and Their Installation Command:
-  pip install pyttsx3  
-  pip install SpeechRecognition  
-  pip install webbrowser 
-  pip install wikipedia  
-  pip install os-sys
-  pip install pyjokes
-  pip install requests
-  pip install DateTime
-  pip install wolframalpha
-  pip install smtplib 
-  pip install winshell
-  pip install twilio
-  pip install pywikihow
-  pip install wikipedia
-  pip install pywhatkit
-  pip install speedtest-cli
-  pip install psutil
-  pip install sockets
-  pip install times
-  pip install keyboard
-  pip install mouse
-
+- pip install pyttsx3  
+- pip install SpeechRecognition  
+- pip install webbrowser 
+- pip install wikipedia  
+- pip install os-sys
+- pip install pyjokes
+- pip install requests
+- pip install DateTime
+- pip install wolframalpha
+- pip install smtplib 
+- pip install winshell
+- pip install twilio
+- pip install pywikihow
+- pip install wikipedia
+- pip install pywhatkit
+- pip install speedtest-cli
+- pip install psutil
+- pip install sockets
+- pip install times
+- pip install keyboard
+- pip install mouse
 
 ## Commands to Say:
 
@@ -99,10 +98,10 @@ Jarvis is a personal assistant which can perform cool and unique tasks.
 - Where is Florida
 
 ## Write a Note
-- Write a note -> speak you note -> say 'Yes' to add time stamp or say 'No' ->  say 'Yes' to show the note or say 'No'
+- Write a note -> speak your note -> say 'Yes' to add time stamp or say 'No' ->  say 'Yes' to show the note or say 'No'
 
 ## Answer Any Question
-- Can ask you something 
+- Can I ask you something 
   - What is the capital of India
   - What is the capital of Australia
 
@@ -147,27 +146,27 @@ Jarvis is a personal assistant which can perform cool and unique tasks.
 - What is the battery status ?
 
 ## Tell Internal Drive & RAM Status
-- Tell me the C drive status.
+- Tell me the C drive status
 - What is the C drive status ?
 - Tell me the D drive status.
 - What is the D drive status ?
-- Tell me the RAM status.
+- Tell me the RAM status
 - What is the RAM status ?
 
 ## Tell Boot Time
-- Tell me the boot time.
+- Tell me the boot time
 - What is the C boot time ?
 
 ## Tell IP Address
-- Tell me the IP address.
+- Tell me the IP address
 - What is my IP address ?
 
 ## Tell Internet Speed 
-- Tell me the internet speed.
+- Tell me the internet speed
 - What is the internet speed?
-- Tell me the uploading speed.
+- Tell me the uploading speed
 - What is the uploading speed?
-- Tell me the downloading speed.
+- Tell me the downloading speed
 - What is the downloading speed?
 
 ## Tell Current location Details.
