@@ -1,7 +1,9 @@
 # J.A.R.V.I.S Your Personal Assistant
 Jarvis is a personal assistant which can perform cool and unique tasks. 
 
-## Features / Tasks it can perform:  
+![alt text](photo.jpg)
+
+## Tasks it can perform:  
 1.  Tell day, date, time and news.
 2.  Tell jokes.
 3.  Play songs from music directory.
@@ -28,7 +30,7 @@ Jarvis is a personal assistant which can perform cool and unique tasks.
 24. Tell your current location in detail.
 
 
-## Modules Used and Their Installation Command
+## Modules Used and Their Installation Command:
   pip install pyttsx3  
   pip install SpeechRecognition  
   pip install webbrowser 
@@ -53,6 +55,7 @@ Jarvis is a personal assistant which can perform cool and unique tasks.
 
 
 ## Commands to Say:
+
 ## Tell Day, Date, Time and News
 - What is the day ?
 - Which day is it ?
@@ -119,7 +122,7 @@ Jarvis is a personal assistant which can perform cool and unique tasks.
 ## Send Mail
 - Send a mail -> type the reciever email address -> speak the message
 
-# Search from Google or Wikipedia
+## Search from Google or Wikipedia
 - Search captain america
 - Search adaptive control system
 - tell me about corona virus from wikipedia
