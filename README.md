@@ -1,7 +1,7 @@
 # J.A.R.V.I.S Your Personal Assistant
 Jarvis is a personal assistant which can perform cool and unique tasks. 
 
-![alt text](photo.jpg)
+![alt text](https://github.com/Arpita-8850/JARVIS/blob/main/photo.JPG)
 
 ## Tasks it can perform:  
 1.  Tell day, date, time and news.
